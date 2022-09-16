@@ -3,5 +3,5 @@
 Integrantes: 
 - Ana María Galarza
 -
--
+-Gonzalo Volante
 - 
