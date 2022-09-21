@@ -2,6 +2,6 @@
 
 Integrantes: 
 - Ana María Galarza
--
+-Estefania Escarria
 -
 - 
